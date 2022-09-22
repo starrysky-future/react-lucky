@@ -1,0 +1,12 @@
+$color: rgb(218, 17, 218);
+
+body {
+  p {
+    color: $color;
+    display: block;
+    text-align: center;
+    line-height: 300px;
+    background-image: url("../public/logo.jpg");
+    background-size: contain;
+  }
+}
